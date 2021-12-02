@@ -1,0 +1,98 @@
+
+
+
+
+
+.effect {
+  position: absolute;
+  z-index: 100;
+}
+.effect-5 {
+  height: 70px;
+  width: 70px;
+  left: 5%;
+  top: 60%;
+z-index: 500;
+  justify-content: space-between;
+  border-radius: 50%;
+  overflow: hidden;
+  animation: spin 11s linear infinite;
+}
+
+
+.five {
+  width: 2px;
+  background-color: #4dd0e1
+}
+
+
+
+
+
+
+.pop-up{
+
+  margin:0;
+  padding:0;
+  font-family:sans-serif;
+  background-color:#161616;
+  height: 200px;
+  width:300px;
+  position:absolute;
+  text-align: center;
+  border-radius:3px;
+  box-shadow:0 2px 12px 0 rgba(0,0,0,.4);
+border-radius: 20px;
+
+
+
+}
+.pop-up{
+  position: absolute;
+  top:20%;
+  left: 50%;
+  transform: translate(-50%,50%);
+  display: block;
+  height:200px;
+  width:200px
+
+
+
+
+}
+.work{
+  background-color:#ff8c00;
+  font-size:30px;
+  text-align:center;
+  border-radius:3px;
+  cursor: pointer;
+    font-family:cursive;
+    color:white;
+    border-radius: 10px;
+}
+
+.one{
+  background-color:#ff8c00;
+  font-size:30px;
+  text-align:center;
+  border-radius:3px;
+  cursor: pointer;
+  font-family:cursive;
+  color: white;
+  border-radius: 10px;
+}
+h2{
+  color: white;
+  font-family:cursive;
+}
+
+.one:hover{
+  background:#ffd700;
+  color:white;
+
+}
+.second:hover{
+  background:#ffd700;
+  color:white;
+
+}
